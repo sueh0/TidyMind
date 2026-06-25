@@ -52,15 +52,12 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 ## 💻 Tecnologias Utilizadas
 
 * [Python](https://www.python.org/)
-* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Interface Gráfica Moderna)
+* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Interface Gráfica)
 * [Watchdog](https://github.com/gorakhargosh/watchdog) (Monitoramento do Sistema de Arquivos)
-* [PyInstaller](https://pyinstaller.org/) (Compilação do Executável Portátil)
+* [PyInstaller](https://pyinstaller.org/) (Compilação EXE)
 
 ---
 
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-<p align="center">Desenvolvido com 🧠 para trazer paz de espírito ao seu ambiente digital.</p>
