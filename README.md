@@ -1,14 +1,18 @@
-# 🧠 TidyMind — Automação Inteligente de Arquivos
+<p align="center">
+  <img src="logo.png" alt="TidyMind Logo" width="180px">
+</p>
 
-O **TidyMind** é um aplicativo portátil (portable) leve e moderno para Windows, projetado para eliminar o caos digital e trazer clareza mental para o seu dia a dia. Ele monitora e organiza pastas bagunçadas (como a sua pasta de Downloads ou Área de Trabalho) em tempo real, movendo cada arquivo para a sua respectiva categoria de forma 100% automatizada.
+# <p align="center">TidyMind — Automação Inteligente de Arquivos</p>
 
----
+<p align="center">
+  O <b>TidyMind</b> é um aplicativo portátil (portable) leve e moderno para Windows, projetado para eliminar o caos digital e trazer clareza mental para o seu dia a dia. Ele monitora e organiza pastas bagunçadas (como a sua pasta de Downloads ou Área de Trabalho) em tempo real, movendo cada arquivo para a sua respectiva categoria de forma 100% automatizada.
+</p>
 
-## 💾 Download Direto (Pronto para Uso)
-
-Não precisa instalar nada, não precisa ter o Python no computador e não precisa abrir o terminal. Basta baixar e clicar duas vezes para usar!
-
-👉 **[CLIQUE AQUI PARA BAIXAR O TIDYMIND (.EXE)](sha256:83f6e907af29f0eb1154cb568c92461a8ec439d5cbe99f2188476324d70c0923)**
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0.0/TidyMind.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD-TidyMind%20(.EXE)-success?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Botão de Download TidyMind" height="50px">
+  </a>
+</p>
 
 ---
 
@@ -35,7 +39,7 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 
 ## 🛠️ Como Usar (Passo a Passo)
 
-1. **Baixe o executável** através do link de download acima.
+1. **Baixe o executável** clicando no grande botão verde de Download no topo desta página.
 2. Mova o arquivo `TidyMind.exe` para onde preferir (ex: sua Área de Trabalho).
 3. Dê **dois cliques** para abrir o aplicativo.
    > ⚠️ **Nota na primeira execução:** Como o TidyMind é um software independente, o Windows SmartScreen pode exibir um aviso azul. Basta clicar em **"Mais informações"** e depois em **"Executar assim mesmo"**. Isso só acontece na primeira vez!
@@ -57,3 +61,6 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+<p align="center">Desenvolvido com 🧠 para trazer paz de espírito ao seu ambiente digital.</p>
