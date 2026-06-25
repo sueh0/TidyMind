@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0.0/TidyMind.exe">
+  <a href="sha256:83f6e907af29f0eb1154cb568c92461a8ec439d5cbe99f2188476324d70c0923">
     <img src="https://img.shields.io/badge/DOWNLOAD-TidyMind%20(.EXE)-success?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Botão de Download TidyMind" height="50px">
   </a>
 </p>
