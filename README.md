@@ -8,7 +8,7 @@ O **TidyMind** é um aplicativo portátil (portable) leve e moderno para Windows
 
 Não precisa instalar nada, não precisa ter o Python no computador e não precisa abrir o terminal. Basta baixar e clicar duas vezes para usar!
 
-👉 **[CLIQUE AQUI PARA BAIXAR O TIDYMIND (.EXE)](COLE_O_LINK_DA_SUA_RELEASE_AQUI)**
+👉 **[CLIQUE AQUI PARA BAIXAR O TIDYMIND (.EXE)](sha256:83f6e907af29f0eb1154cb568c92461a8ec439d5cbe99f2188476324d70c0923)**
 
 ---
 
