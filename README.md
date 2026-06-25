@@ -57,6 +57,3 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-Desenvolvido com 🧠 para trazer paz de espírito ao seu ambiente digital.
