@@ -5,7 +5,7 @@
 # <p align="center">TidyMind — Automação Inteligente de Arquivos</p>
 
 <p align="center">
-  O <b>TidyMind</b> é um aplicativo portátil (portable) leve e moderno para Windows, projetado para eliminar o caos digital e trazer clareza mental para o seu dia a dia. Ele monitora e organiza pastas bagunçadas (como a sua pasta de Downloads ou Área de Trabalho) em tempo real, movendo cada arquivo para a sua respectiva categoria de forma 100% automatizada.
+  O <b>TidyMind</b> é um automatizador leve e moderno para Windows, projetado para eliminar o caos digital e trazer clareza mental para o seu dia a dia. Ele monitora e organiza pastas bagunçadas (como a sua pasta de Downloads ou Área de Trabalho) em tempo real, movendo cada arquivo para a sua respectiva categoria de forma 100% automatizada.
 </p>
 
 <p align="center">
