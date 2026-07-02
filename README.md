@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 * **Organização em Tempo Real:** O TidyMind fica de "cão de guarda" na pasta escolhida. Assim que um arquivo entra nela, ele é movido instantaneamente.
 * **Seleção Dinâmica de Pasta:** Escolha qualquer diretório do seu computador (Downloads, Área de Trabalho, Pendrives, pastas de rede) para ser limpo com apenas um clique.
