@@ -18,13 +18,13 @@
 
 ## ✨ Funcionalidades Principais
 
-* 🚀 **Organização em Tempo Real:** O TidyMind fica de "cão de guarda" na pasta escolhida. Assim que um arquivo entra nela, ele é movido instantaneamente.
-* 📂 **Seleção Dinâmica de Pasta:** Escolha qualquer diretório do seu computador (Downloads, Área de Trabalho, Pendrives, pastas de rede) para ser limpo com apenas um clique.
-* 🛡️ **Trava de Segurança Anticorrupção:** O software monitora o tamanho do arquivo bit a bit e só realiza a movimentação quando o navegador ou sistema terminar completamente o download ou cópia, garantindo que nenhum arquivo suma ou quebre.
-* 🖥️ **Interface Moderna e Limpa:** Desenvolvido com uma interface gráfica elegante que se adapta automaticamente ao Modo Escuro ou Modo Claro do seu Windows.
-* 📝 **Painel de Histórico Vivo:** Acompanhe em tempo real exatamente o que a automação está fazendo através do painel de logs integrado.
+* **Organização em Tempo Real:** O TidyMind fica de "cão de guarda" na pasta escolhida. Assim que um arquivo entra nela, ele é movido instantaneamente.
+* **Seleção Dinâmica de Pasta:** Escolha qualquer diretório do seu computador (Downloads, Área de Trabalho, Pendrives, pastas de rede) para ser limpo com apenas um clique.
+* **Trava de Segurança Anticorrupção:** O software monitora o tamanho do arquivo bit a bit e só realiza a movimentação quando o navegador ou sistema terminar completamente o download ou cópia, garantindo que nenhum arquivo suma ou quebre.
+* **Interface Moderna e Limpa:** Desenvolvido com uma interface gráfica elegante que se adapta automaticamente ao Modo Escuro ou Modo Claro do seu Windows.
+* **Painel de Histórico Vivo:** Acompanhe em tempo real exatamente o que a automação está fazendo através do painel de logs integrado.
 
-### 🗂️ Como os arquivos são categorizados?
+### Como os arquivos são categorizados?
 O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas automaticamente:
 * **Documentos:** `.pdf`, `.docx`, `.txt`, `.rtf`, etc.
 * **Planilhas:** `.xlsx`, `.xls`, `.csv`, `.ods`
@@ -37,7 +37,7 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 
 ---
 
-## 🛠️ Como Usar (Passo a Passo)
+## Como Usar (Passo a Passo)
 
 1. **Baixe o executável** clicando no grande botão verde de Download no topo desta página.
 2. Mova o arquivo `TidyMind.exe` para onde preferir (ex: sua Área de Trabalho).
@@ -49,15 +49,15 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## Stack
 
 * [Python](https://www.python.org/)
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Interface Gráfica)
 * [Watchdog](https://github.com/gorakhargosh/watchdog) (Monitoramento do Sistema de Arquivos)
-* [PyInstaller](https://pyinstaller.org/) (Compilação EXE)
+* [PyInstaller](https://pyinstaller.org/) (Compilação)
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
